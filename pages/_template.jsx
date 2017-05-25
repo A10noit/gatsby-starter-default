@@ -42,7 +42,7 @@ module.exports = React.createClass({
                   textDecoration: "none",
                 }}
               >
-                Gatsby
+                GaAAAAAtsby
               </Link>
             </h1>
           </div>
