@@ -24,7 +24,7 @@ module.exports = React.createClass({
         <div
           style={{
             background: `rebeccapurple`,
-            marginBottom: rhythm(10),
+            marginBottom: rhythm(1),
           }}
         >
           <div
